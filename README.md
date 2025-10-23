@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhkODFxazdscG56c2owb3N4ZDNoaG5jb3djbWFlc2F0a3dhNm9naSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ui1VQlTo0FvHrdwJD7/giphy.gif"  />
-</div>
-
-###
-
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
