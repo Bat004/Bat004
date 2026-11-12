@@ -49,7 +49,7 @@
              width="100%" alt="Aperçu de Pauselock">
       </a>
       <h3>Pauselock</h3>
-      <p>A Deadlock minigame when the game is paused.</p>
+      <p>Different minigames to play in Deadlock </p>
     </td>
   </tr>
 </table>
