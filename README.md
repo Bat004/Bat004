@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=111111&fontColor=F5F0E6&text=BAT%20%E2%80%94%20CASE%20FILE%20004&fontSize=34&fontAlignY=45&desc=DEVELOPER%20%7C%20CURIOSITY%20DETECTIVE&descAlignY=70&descSize=14" alt="Bannière rétro de Bat" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=111111&fontColor=F5F0E6&text=BAT%20%E2%80%94%20CASE%20FILE%20004&fontSize=34&fontAlignY=45&descAlignY=70&descSize=14" alt="Bannière" />
 
 <br />
 
