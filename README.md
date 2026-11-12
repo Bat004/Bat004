@@ -2,11 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=111111&fontColor=F5F0E6&text=BAT&fontSize=34&fontAlignY=45&descAlignY=70&descSize=14" alt="Bannière" />
 
-<br />
-
-<h1>Hey, I'm Bat!</h1>
-
-
 <p>
   <img src="https://img.shields.io/badge/LOCATION-FRANCE-F5F0E6?style=for-the-badge&labelColor=111111" alt="Location: France" />
 </p>
