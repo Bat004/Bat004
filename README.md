@@ -35,21 +35,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
 
-### 🗃️ Selected investigations
-
-
-
-
-### 📈 Activity log
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bat004&bg_color=111111&color=F5F0E6&line=B3262E&point=F5F0E6&area=true&hide_border=true" alt="Graphique d’activité GitHub" />
-</div>
-
-<div align="center">
-
-<sub>☕ Powered by coffee, curiosity, and suspiciously many open tabs.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=111111" alt="" />
-
-</div>
