@@ -31,7 +31,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
 
-### 🚀 Projects
+### 🗃️ Projects
 
-- [Valorant Tracker](https://github.com/Bat004/Valorant-Tracker)
-- [Pauselock](https://github.com/Bat004/Pauselock)
+<div align="center">
+
+<a href="https://github.com/Bat004/Valorant-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bat004&repo=Valorant-Tracker&theme=dark&hide_border=true" alt="Valorant Tracker project card" />
+</a>
+
+<a href="https://github.com/Bat004/Pauselock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bat004&repo=Pauselock&theme=dark&hide_border=true" alt="Pauselock project card" />
+</a>
+
+</div>
