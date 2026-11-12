@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://github.com/Bat004/Pauselock">
-  <img src="https://opengraph.githubassets.com/1/Bat004/Pauselock" width="400" alt="Pauselock project preview" />
+<img src="./assets/deadlock.png" width="400" alt="Image du projet Pauselock">
 </a>
 
 </div>
