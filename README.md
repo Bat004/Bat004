@@ -48,7 +48,7 @@
         <img src="https://raw.githubusercontent.com/Bat004/Pauselock/main/assets/deadlock.png"
              width="100%" alt="Aperçu de Pauselock">
       </a>
-      <h3>Pauselock</h3>
+      <h3>Gamelock</h3>
       <p>Different minigames to play in Deadlock </p>
     </td>
   </tr>
