@@ -40,6 +40,8 @@
 </a>
 
 <a href="https://github.com/Bat004/Pauselock">
-  <img src="./assets/deadlock.png" width="400" alt="Screenshot of Pauselock">
+  <img src="https://raw.githubusercontent.com/Bat004/Pauselock/main/assets/deadlock.png"
+       width="400"
+       alt="Deadlock Img">
 </a>
 </div>
