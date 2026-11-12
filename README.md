@@ -36,11 +36,11 @@
 <div align="center">
 
 <a href="https://github.com/Bat004/Valorant-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bat004&repo=Valorant-Tracker&theme=dark&hide_border=true" alt="Valorant Tracker project card" />
+  <img src="https://opengraph.githubassets.com/1/Bat004/Valorant-Tracker" width="400" alt="Valorant Tracker project preview" />
 </a>
 
 <a href="https://github.com/Bat004/Pauselock">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bat004&repo=Pauselock&theme=dark&hide_border=true" alt="Pauselock project card" />
+  <img src="https://opengraph.githubassets.com/1/Bat004/Pauselock" width="400" alt="Pauselock project preview" />
 </a>
 
 </div>
