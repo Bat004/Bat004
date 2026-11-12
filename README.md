@@ -33,15 +33,23 @@
 
 ### 🗃️ Projects
 
-<div align="center">
-
-<a href="https://github.com/Bat004/Valorant-Tracker">
-  <img src="https://opengraph.githubassets.com/1/Bat004/Valorant-Tracker" width="400" alt="Valorant Tracker project preview" />
-</a>
-
-<a href="https://github.com/Bat004/Pauselock">
-  <img src="https://raw.githubusercontent.com/Bat004/Pauselock/main/assets/deadlock.png"
-       width="400"
-       alt="Deadlock Img">
-</a>
-</div>
+<table>
+  <tr>
+<td width="50%" align="center">
+  <a href="https://github.com/Bat004/Valorant-Tracker">
+    <img src="https://github.com/Bat004/Valorant-Tracker/raw/refs/heads/main/assets/valtrack.png"
+     width="100%" alt="Aperçu de Valtrack">
+  </a>
+  <h3>Valtrack</h3>
+  <p>A Valorant Tracker.</p>
+</td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Bat004/Pauselock">
+        <img src="https://raw.githubusercontent.com/Bat004/Pauselock/main/assets/deadlock.png"
+             width="100%" alt="Aperçu de Pauselock">
+      </a>
+      <h3>Pauselock</h3>
+      <p>A Deadlock minigame when the game is paused.</p>
+    </td>
+  </tr>
+</table>
