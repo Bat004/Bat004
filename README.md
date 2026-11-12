@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://github.com/Bat004/Pauselock">
-<img src="./assets/deadlock.png" width="400" alt="Image du projet Pauselock">
+  <img src="./assets/deadlock.png" width="400" alt="Image du projet Pauselock">
 </a>
 
 </div>
